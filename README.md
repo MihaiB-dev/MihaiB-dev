@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mihai</h1>
 <h3 align="center">Computer Science Student @ University of Bucharest</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihaib-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mihaib-dev" /> </p>
-
 - 📫 How to reach me **mihaibivol.dev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mihai-bivol/overlay/1729364446614/single-media-viewer/?profileId=ACoAADbt3ocBxpmRdV8oaGnAWFBtsVYud6QUZbM](https://www.linkedin.com/in/mihai-bivol/overlay/1729364446614/single-media-viewer/?profileId=ACoAADbt3ocBxpmRdV8oaGnAWFBtsVYud6QUZbM)
